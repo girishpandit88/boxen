@@ -1,6 +1,6 @@
 # Our Boxen
 
-Have you ever lost your laptop in broad daylight? Have you ever wondered, how will you get back all your favorite settings on your Mac that made you a ~~great.~~ awesome engineer. Now you don't have to worry about all those scary and creepy thoughts!
+Have you ever lost your laptop in broad daylight? Have you ever wondered, how will you get back all your favorite settings on your Mac that made you a ~~great~~ awesome engineer. Now you don't have to worry about all those scary and creepy thoughts!
 
 Boxen project designed for you to fork and modify appropriately.
 The Boxen rubygem and the Boxen puppet modules are only a framework for getting
